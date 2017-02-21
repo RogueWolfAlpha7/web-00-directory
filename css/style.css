@@ -57,7 +57,7 @@ table {
  	padding-top: 15px;
  	padding-bottom: 15px;
  }
- 
+
  .header {
   	background-color: grey;
   }
@@ -70,8 +70,8 @@ table {
 /*Footer
 */
 
-.footer{
-  background-color:  #3d3d29;
+.footer {
+  background-color: grey;
 }
 
 .copy-right {
@@ -87,8 +87,7 @@ table {
 }
 
 .social-media {
-  display: inline;
-  margin-right: 70px;
+  display: inline-block;
+
 }
 ========
-
