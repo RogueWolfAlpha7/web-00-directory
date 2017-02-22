@@ -155,18 +155,16 @@ p {
   float: left;
 }
 
-
 .nav-bar {
   float: right;
   font-family: 'Cutive Mono';
 }
 
-<<<<<<< HEAD
 .social-media {
   display: inline;
 	float:right;
+}
 
-=======
 .footer {
   background-color: grey;
   width: 100%;
@@ -178,11 +176,4 @@ p {
 .social-link {
   display: inline-block;
   width: 10%;
->>>>>>> b0718dd1ac91c3ef01ccadaff4b154f881982a41
 }
-========
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 940e806836bde8f3bae7923e60caf6fe6fdeac8a
