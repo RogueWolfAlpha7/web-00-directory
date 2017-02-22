@@ -75,7 +75,8 @@ table {
 
 .copy-right {
   font-family: 'Codystar',cursive, sans-serif;
-  font-size: 25px;
+  font-size: 15px;
+  color: white;
   float: left;
 }
 
@@ -85,9 +86,22 @@ table {
   font-family: 'Cutive Mono';
 }
 
+<<<<<<< HEAD
 .social-media {
   display: inline;
 	float:right;
 
+=======
+.footer {
+  background-color: grey;
+  width: 100%;
+  display: inline-block;
+  float: right;
+}
+
+.social-link {
+  display: inline-block;
+  width: 10%;
+>>>>>>> b0718dd1ac91c3ef01ccadaff4b154f881982a41
 }
 ========
